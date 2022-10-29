@@ -9,7 +9,7 @@
     <h2>I have made numerous projects to keep learning, and have even taught others <br>
          how to program as well. These projects are stored under the projects section.</h2>
 <br>   
- <h2>If you would like to contact me for any reason, here are my email, hosted under my own mail server:</h2>
+ <h2>If you would like to contact me for any reason, here are my emails, hosted under my own mail server:</h2>
  <br>
     <h3>
         <li>For things related to my github/lab: <a href="mailto:gitlab@iscienceworld.com">gitlab@iscienceworld.com</a></li>
