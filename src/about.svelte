@@ -2,8 +2,6 @@
 </script>
 
 <main>
-
-  
   <h1>About me:</h1>
   <h2>I have been programming since approximately 2017. Ever since I have been working <br>
     on several projects, and this website is my place to centralize my work.</h2>

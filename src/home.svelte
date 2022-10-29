@@ -2,7 +2,7 @@
     </script>
     
     <main>
-        <img src="/src/assets/fractal.png" alt="Fractal" style="opacity: 0.35; width: 100%;">
+        <img src="https://givingdonation.github.io/worksite/src/assets/fractal.png" alt="Fractal" style="opacity: 0.35; width: 100%;">
       <div class="center">
         <h1>I am Carlo, and this is my website!</h1>
         <h2>My personal site for work!</h2>
